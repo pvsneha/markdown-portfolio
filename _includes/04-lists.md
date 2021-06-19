@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ul>
+  <li>biriyani</li>
+  <li>Tea</li>
+  <li>shawarma</li>
+</ul>
+
